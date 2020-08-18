@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "张文旗 <1071942338@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
