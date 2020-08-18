@@ -1,0 +1,1519 @@
+[
+    {
+        "id": 100058001,
+        "ctime": 1597286452,
+        "utime": 1597718915,
+        "begin_time": 1597593600,
+        "end_time": 1916928000,
+        "price": { "market": 6800, "sale": 5500, "sale_type": 2 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": false,
+        "is_promo": true,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "Linux内核技术实战课",
+        "subtitle": "从内核层面攻克应用程序难题",
+        "ucode": "CDFABCB81B9782",
+        "is_finish": false,
+        "author": {
+            "name": "邵亚方",
+            "intro": "前蘑菇街技术专家，Linux Kernel活跃贡献者",
+            "avatar": "https://static001.geekbang.org/resource/image/a9/95/a95926fd014cce70b141ab148a8f2095.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/a9/95/a95926fd014cce70b141ab148a8f2095.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/5a/c9/5a519a268f99545099955a0f0b1c9fc9.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/4d/18/4dd1aef644848d3df1ca38a698823318.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 23,
+            "count_req": 22,
+            "count_pub": 3,
+            "total_length": 1870
+        },
+        "seo": {
+            "keywords": [
+                "Linux",
+                "Linux内核",
+                "Page Cache",
+                "内存管理",
+                "内存泄漏",
+                "TCP重传",
+                "CPU 利用率"
+            ]
+        },
+        "share": {
+            "title": "邵亚方 · Linux内核技术实战课",
+            "content": "从内核层面攻克应用程序难题",
+            "cover": "https://static001.geekbang.org/resource/image/a9/95/a95926fd014cce70b141ab148a8f2095.jpg"
+        },
+        "unit": "23讲",
+        "column": {
+            "unit": "23讲",
+            "bgcolor": "F6F7FB",
+            "update_frequency": "8月25日正式更新",
+            "is_preorder": false,
+            "is_finish": false,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 8, 9, 11, 13],
+            "path": {
+                "desc": "你将获得：掌握Linux底层基础知识；疑难问题的排查定位方法；类稳定性问题案例分析；Linux内核专家的应用实战经验。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得：\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e掌握 Linux 底层基础知识；\u003c/li\u003e\n\u003cli\u003e疑难问题的排查定位方法；\u003c/li\u003e\n\u003cli\u003e类稳定性问题案例分析；\u003c/li\u003e\n\u003cli\u003eLinux 内核专家的应用实战经验。\u003c/li\u003e\n\u003c/ol\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 1478,
+                "had_done": false,
+                "could_order": true,
+                "access_mask": 0
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 0,
+                "article_count_req": 0,
+                "is_finished": false,
+                "rate_percent": 0,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 11,
+                "status": 0,
+                "url": "https://jinshuju.net/f/mwe1E9"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 0,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 0,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "595656",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/6f/30/6f96bf78a264d501d5b04753c4f9c530.jpg",
+                "promo_pic_color": "595656",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/7b/f8/7bec1c3cyyb66de72390e90b94a2a4f8.jpg",
+                "share_sale_price": 1800,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 1598716799 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [273544, 273892, 274106]
+        }
+    },
+    {
+        "id": 100023201,
+        "ctime": 1547107529,
+        "utime": 1597678225,
+        "begin_time": 1546963200,
+        "end_time": 1564502400,
+        "price": { "market": 9900, "sale": 7900, "sale_type": 2 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": false,
+        "is_promo": true,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "重学前端",
+        "subtitle": "每天10分钟，重构你的前端知识体系",
+        "ucode": "2B068EDEAFEB56",
+        "is_finish": true,
+        "author": {
+            "name": "程劭非（winter）",
+            "intro": "前手机淘宝前端负责人",
+            "avatar": "https://static001.geekbang.org/resource/image/80/e2/80293b21a2cc9c02ccde5cec6838efe2.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/80/e2/80293b21a2cc9c02ccde5cec6838efe2.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/3d/de/3d2579c24b8f41a137df15b8537502de.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/e6/91/e6e46636d96781cba7266a5c3b49e491.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 58,
+            "count_req": 49,
+            "count_pub": 58,
+            "total_length": 45013
+        },
+        "seo": { "keywords": ["前端", "前端面试"] },
+        "share": {
+            "title": "程劭非（winter） · 重学前端",
+            "content": "前阿里手淘前端负责人 winter 用45+课程，带你告别零散和盲目的学习，帮你在现有的知识框架和技能基础上，重建前端知识架构。",
+            "cover": "https://static001.geekbang.org/resource/image/80/e2/80293b21a2cc9c02ccde5cec6838efe2.jpg"
+        },
+        "unit": "58讲",
+        "column": {
+            "unit": "58讲",
+            "bgcolor": "e3dddc",
+            "update_frequency": "全集",
+            "is_preorder": false,
+            "is_finish": true,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 9, 10, 11, 13],
+            "path": {
+                "desc": "你将获得：告别零散技术点，搭建前端知识体系；打通JS、HTML、CSS、浏览器4大脉络；40+前端难点完全解答；大厂前端工程实战演练。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e告别零散技术点，搭建前端知识体系；\u003c/li\u003e\n\u003cli\u003e打通JS、HTML、CSS、浏览器4大脉络；\u003c/li\u003e\n\u003cli\u003e40+前端难点完全解答；\u003c/li\u003e\n\u003cli\u003e大厂前端工程实战演练。\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 37174,
+                "had_done": true,
+                "could_order": false,
+                "access_mask": 1
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 29,
+                "article_count_req": 24,
+                "is_finished": false,
+                "rate_percent": 48,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 25,
+                "status": 0,
+                "url": "https://jinshuju.net/f/KlNqmn"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 0,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 0,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "595656",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/26/ed/2637ab2a03136bb1301f1a2349cfdfed.jpg",
+                "promo_pic_color": "595656",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/b5/0a/b5eea079f2286b936bc3c05e73dff90a.jpg",
+                "share_sale_price": 2400,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 1598889599 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 1990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [77345, 77749, 77804, 78884]
+        }
+    },
+    {
+        "id": 100057701,
+        "ctime": 1596880073,
+        "utime": 1597658376,
+        "begin_time": 1596816000,
+        "end_time": 1912694400,
+        "price": { "market": 6800, "sale": 5500, "sale_type": 2 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": false,
+        "is_promo": true,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "To B市场品牌实战课",
+        "subtitle": "用产品故事引爆市场",
+        "ucode": "E8DF6B141B63C7",
+        "is_finish": false,
+        "author": {
+            "name": "曹林",
+            "intro": "BAT大厂前产品市场负责人",
+            "avatar": "https://static001.geekbang.org/resource/image/e8/77/e8a7f4faa9f42cd36247315508ba8b77.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/e8/77/e8a7f4faa9f42cd36247315508ba8b77.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/7c/3c/7c9b8a43f9f3de6509b33bf8798a403c.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/ff/cc/ff24c50017e149f956f223811a4f24cc.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 20,
+            "count_req": 20,
+            "count_pub": 4,
+            "total_length": 4234
+        },
+        "seo": {
+            "keywords": [
+                "市场",
+                "营销",
+                "市场营销",
+                "产品",
+                "增长",
+                "阿里",
+                "2B",
+                "toB",
+                "2C",
+                "品牌",
+                ""
+            ]
+        },
+        "share": {
+            "title": "曹林 · To B市场品牌实战课",
+            "content": "用产品故事引爆市场",
+            "cover": "https://static001.geekbang.org/resource/image/e8/77/e8a7f4faa9f42cd36247315508ba8b77.jpg"
+        },
+        "unit": "20讲",
+        "column": {
+            "unit": "20讲",
+            "bgcolor": "F6F7FB",
+            "update_frequency": "每周一／三／五更新",
+            "is_preorder": false,
+            "is_finish": false,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 11, 13, 14],
+            "path": {
+                "desc": "你将获得：新产品如何低成本变成ToB市场爆款；如何打造一个口口相传的经典客户案例；ToB内容生产困难，其实是有方法论的；线上内容转型，经典案例让你成为带货高手。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得：\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e新产品如何低成本变成To B市场爆款；\u003c/li\u003e\n\u003cli\u003e如何打造一个口口相传的经典客户案例；\u003c/li\u003e\n\u003cli\u003eTo B内容生产困难，其实是有方法论的；\u003c/li\u003e\n\u003cli\u003e线上内容转型，经典案例让你成为带货高手。\u003c/li\u003e\n\u003c/ol\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 617,
+                "had_done": false,
+                "could_order": true,
+                "access_mask": 0
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 0,
+                "article_count_req": 0,
+                "is_finished": false,
+                "rate_percent": 0,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 10,
+                "status": 0,
+                "url": "https://jinshuju.net/f/dtPSMz"
+            },
+            "any_read": { "total": 2, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 0,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 0,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "595656",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/a2/5a/a232b2fc7e19e58f08068a2717bf015a.jpg",
+                "promo_pic_color": "595656",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/a2/5a/a232b2fc7e19e58f08068a2717bf015a.jpg",
+                "share_sale_price": 1800,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 1598457599 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [271936, 272352, 272816, 274270]
+        }
+    },
+    {
+        "id": 100057401,
+        "ctime": 1596619747,
+        "utime": 1597658374,
+        "begin_time": 1596988800,
+        "end_time": 1912521600,
+        "price": { "market": 9900, "sale": 7900, "sale_type": 2 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": false,
+        "is_promo": true,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "分布式数据库30讲",
+        "subtitle": "从功能特性到运行机制，讲透本质",
+        "ucode": "CF0B955A06FE2A",
+        "is_finish": false,
+        "author": {
+            "name": "王磊",
+            "intro": "光大银行首席数据架构师",
+            "avatar": "https://static001.geekbang.org/resource/image/aa/39/aa3d5ae10c219958646ce640569dc939.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/aa/39/aa3d5ae10c219958646ce640569dc939.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/f5/12/f57dbe7932a2728f9cf8965cee2a6812.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/3f/7b/3f0c94b9245ac745a41b22ff59a5d77b.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 33,
+            "count_req": 32,
+            "count_pub": 5,
+            "total_length": 1815
+        },
+        "seo": {
+            "keywords": [
+                "分布式数据库",
+                "数据库",
+                "分布式",
+                "后端",
+                "架构",
+                "分布式系统",
+                "分布式存储",
+                "后端存储",
+                "后端开发",
+                "DDB"
+            ]
+        },
+        "share": {
+            "title": "王磊 · 分布式数据库30讲",
+            "content": "从功能特性到运行机制，讲透本质",
+            "cover": "https://static001.geekbang.org/resource/image/aa/39/aa3d5ae10c219958646ce640569dc939.jpg"
+        },
+        "unit": "33讲",
+        "column": {
+            "unit": "33讲",
+            "bgcolor": "F6F7FB",
+            "update_frequency": "每周一 / 三 / 五更新",
+            "is_preorder": false,
+            "is_finish": false,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14],
+            "path": {
+                "desc": "你将获得：分布式数据库技术内核深度剖析；NewSQL和PostgreSQL-XC架构详解；分布式数据库强一致性的实现方式；海量数据和超高并发的应对方案。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e分布式数据库技术内核深度剖析；\u003c/li\u003e\n\u003cli\u003eNewSQL 和 PostgreSQL-XC 架构详解 ；\u003c/li\u003e\n\u003cli\u003e分布式数据库强一致性的实现方式；\u003c/li\u003e\n\u003cli\u003e海量数据和超高并发的应对方案。\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 1761,
+                "had_done": false,
+                "could_order": true,
+                "access_mask": 0
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 0,
+                "article_count_req": 0,
+                "is_finished": false,
+                "rate_percent": 0,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 16,
+                "status": 0,
+                "url": "https://jinshuju.net/f/gTzVY9"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 0,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 0,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "595656",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/ef/0f/ef07c1c1yy88c2f1e7bc1cbd4e64550f.jpg",
+                "promo_pic_color": "595656",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/8b/31/8b7094c0ed6fccaf1387513fdf7f1e31.jpg",
+                "share_sale_price": 2400,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 1598025599 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 1990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [271369, 271373, 272104, 272999]
+        }
+    },
+    {
+        "id": 100017301,
+        "ctime": 1536893949,
+        "utime": 1597658317,
+        "begin_time": 1537113600,
+        "end_time": 1546704000,
+        "price": { "market": 12900, "sale": 9900, "sale_type": 3 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "is_promo": false,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "数据结构与算法之美",
+        "subtitle": "为工程师量身打造的数据结构与算法私教课",
+        "ucode": "2B611BE0E0EDD4",
+        "is_finish": true,
+        "author": {
+            "name": "王争",
+            "intro": "前Google工程师",
+            "avatar": "https://static001.geekbang.org/resource/image/11/5b/11a3a5aa2f5879ec88b284044bacd55b.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/11/5b/11a3a5aa2f5879ec88b284044bacd55b.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/d3/3a/d3a96afa07fbbc5219ffe5e2ccaade3a.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/6b/48/6bb82a4eb7095657bc3a31c25544ac48.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 80,
+            "count_req": 58,
+            "count_pub": 80,
+            "total_length": 55541
+        },
+        "seo": { "keywords": ["算法实战", "算法面试"] },
+        "share": {
+            "title": "王争 · 数据结构与算法之美",
+            "content": "为工程师量身打造的数据结构与算法私教课",
+            "cover": "https://static001.geekbang.org/resource/image/11/5b/11a3a5aa2f5879ec88b284044bacd55b.jpg"
+        },
+        "unit": "80讲",
+        "column": {
+            "unit": "80讲",
+            "bgcolor": "9b7a7a",
+            "update_frequency": "全集",
+            "is_preorder": false,
+            "is_finish": true,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14],
+            "path": {
+                "desc": "你将获得：20个经典数据结构与算法；100个真实项目场景案例；文科生都能懂的算法手绘图解；轻松搞定BAT的面试通关秘籍。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e20个经典数据结构与算法；\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e100个真实项目场景案例；\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e文科生都能懂的算法手绘图解；\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e轻松搞定BAT的面试通关秘籍。\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 89812,
+                "had_done": true,
+                "could_order": false,
+                "access_mask": 1
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 9,
+                "article_count_req": 6,
+                "is_finished": false,
+                "rate_percent": 10,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 29,
+                "status": 0,
+                "url": "https://jinshuju.net/f/Ie9yCN"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 2,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 9900,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "595656",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/e8/a5/e85b981cc87d9ba923e82ef8a2cee8a5.jpg",
+                "promo_pic_color": "595656",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/8b/69/8ba0d3acc8cf8e4a920a3b782d578c69.jpg",
+                "share_sale_price": 2400,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 0 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 2990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [39922, 39972, 40011, 40036]
+        }
+    },
+    {
+        "id": 100020801,
+        "ctime": 1541727960,
+        "utime": 1597671478,
+        "begin_time": 1541692800,
+        "end_time": 1551283200,
+        "price": { "market": 12900, "sale": 8900, "sale_type": 3 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "is_promo": false,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "MySQL实战45讲",
+        "subtitle": "从原理到实战，丁奇带你搞懂MySQL",
+        "ucode": "CDE42D44F26240",
+        "is_finish": true,
+        "author": {
+            "name": "林晓斌",
+            "intro": "网名丁奇，前阿里资深技术专家",
+            "avatar": "https://static001.geekbang.org/resource/image/59/db/598593a4da4fd7ea898711cc623292db.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/59/db/598593a4da4fd7ea898711cc623292db.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/c6/55/c6c30b623636e9b57e440e19133f4155.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/4f/0d/4f2566985c3f171f98866d806e50f70d.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 49,
+            "count_req": 47,
+            "count_pub": 49,
+            "total_length": 44298
+        },
+        "seo": { "keywords": ["MySQL", "数据库"] },
+        "share": {
+            "title": "丁奇 · MySQL实战45讲",
+            "content": "作者是前阿里资深技术专家丁奇，他会带你梳理出学习 MySQL 的主线知识，比如事务、索引、锁等，还会就开发过程中经常遇到的具体问题和你分析讨论，并且帮你理解问题背后的本质。",
+            "cover": "https://static001.geekbang.org/resource/image/59/db/598593a4da4fd7ea898711cc623292db.jpg"
+        },
+        "unit": "49讲",
+        "column": {
+            "unit": "49讲",
+            "bgcolor": "f6f7f9",
+            "update_frequency": "全集",
+            "is_preorder": false,
+            "is_finish": true,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13],
+            "path": {
+                "desc": "你将获得：前阿里资深技术专家独家经验分享；MySQL核心技术详解与原理说明；36个MySQL常见痛点问题解析；完整的MySQL学习路径。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e前阿里资深技术专家独家经验分享；\u003c/li\u003e\n\u003cli\u003eMySQL核心技术详解与原理说明；\u003c/li\u003e\n\u003cli\u003e36个MySQL常见痛点问题解析；\u003c/li\u003e\n\u003cli\u003e完整的MySQL学习路径。\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 58480,
+                "had_done": true,
+                "could_order": false,
+                "access_mask": 1
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 6,
+                "article_count_req": 6,
+                "is_finished": false,
+                "rate_percent": 12,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 24,
+                "status": 0,
+                "url": "https://jinshuju.net/f/Aaa9IQ"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 100,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 8900,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "595656",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/99/00/99c9f3c10999eb5564f43807c540a100.jpg",
+                "promo_pic_color": "595656",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/33/29/3308956db20a8527a23220a05f2e2c29.jpg",
+                "share_sale_price": 2400,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 0 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 2990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [67888, 68319, 68633, 68963]
+        }
+    },
+    {
+        "id": 100006701,
+        "ctime": 1524131831,
+        "utime": 1597656147,
+        "begin_time": 1525190400,
+        "end_time": 1816790400,
+        "price": { "market": 9900, "sale": 7900, "sale_type": 3 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "is_promo": false,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "Java核心技术面试精讲",
+        "subtitle": "前Oracle首席工程师带你修炼Java内功",
+        "ucode": "2BF255467A978F",
+        "is_finish": true,
+        "author": {
+            "name": "杨晓峰",
+            "intro": "前Oracle首席工程师",
+            "avatar": "https://static001.geekbang.org/resource/image/6f/51/6f1829aeae4e740e949340c663834551.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/6f/51/6f1829aeae4e740e949340c663834551.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/4b/40/4be8ef4879ec671be60fbb9ddc289c40.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/3f/db/3f3f51315a99f173dadc9f5a7c6783db.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 44,
+            "count_req": 41,
+            "count_pub": 44,
+            "total_length": 27545
+        },
+        "seo": { "keywords": ["Java面试", "Java基础"] },
+        "share": {
+            "title": "杨晓峰 · Java核心技术面试精讲",
+            "content": "前Oracle首席工程师带你修炼Java内功",
+            "cover": "https://static001.geekbang.org/resource/image/6f/51/6f1829aeae4e740e949340c663834551.jpg"
+        },
+        "unit": "44讲",
+        "column": {
+            "unit": "44讲",
+            "bgcolor": "b2b7cf",
+            "update_frequency": "全集",
+            "is_preorder": false,
+            "is_finish": true,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 12],
+            "path": {
+                "desc": "你将获得：Java核心技术原理；Java面试必考知识点；完整的Java知识体系。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eJava核心技术原理；\u003c/li\u003e\n\u003cli\u003eJava面试必考知识点；\u003c/li\u003e\n\u003cli\u003e完整的Java知识体系。\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 47376,
+                "had_done": true,
+                "could_order": false,
+                "access_mask": 1
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 2,
+                "article_count_req": 2,
+                "is_finished": false,
+                "rate_percent": 4,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 21,
+                "status": 0,
+                "url": "https://jinshuju.net/f/4jK57u"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 2,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 7900,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "ffffff",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/b1/80/b17795a5800e8fd2fb70ffa360228880.jpg",
+                "promo_pic_color": "ffffff",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/d4/85/d40f4054d714e7506881ab546735da85.jpg",
+                "share_sale_price": 2400,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 0 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 1990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [6478, 6845, 6849, 6906]
+        }
+    },
+    {
+        "id": 100002201,
+        "ctime": 1505908992,
+        "utime": 1596988807,
+        "begin_time": 1507564800,
+        "end_time": 1539014400,
+        "price": { "market": 29900, "sale": 19900, "sale_type": 3 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "is_promo": false,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "左耳听风",
+        "subtitle": "洞悉技术的本质，享受科技的乐趣",
+        "ucode": "8A4741D677702E",
+        "is_finish": true,
+        "author": {
+            "name": "陈皓",
+            "intro": "网名“左耳朵耗子”，资深技术专家，骨灰级程序员",
+            "avatar": "https://static001.geekbang.org/resource/image/21/da/216b472de3f9027371576e107601c2da.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/21/da/216b472de3f9027371576e107601c2da.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/ba/d8/bab8205ba79564ca7fc10046aa4279d8.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/69/8e/6979179fbd3996243ee1ba2dfb3d088e.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 109,
+            "count_req": 102,
+            "count_pub": 109,
+            "total_length": 79141
+        },
+        "seo": { "keywords": ["分布式", "酷壳"] },
+        "share": {
+            "title": "陈皓 · 左耳听风",
+            "content": "左耳朵耗子的专栏，20年骨灰级程序员，专栏涵盖程序员练级攻略、全栈程序员的体系化学习路线与进阶底图。专栏已有32000人加入学习，可以说是程序员必备宝典。",
+            "cover": "https://static001.geekbang.org/resource/image/21/da/216b472de3f9027371576e107601c2da.jpg"
+        },
+        "unit": "109讲",
+        "column": {
+            "unit": "109讲",
+            "bgcolor": "6091b2",
+            "update_frequency": "全集",
+            "is_preorder": false,
+            "is_finish": true,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5],
+            "path": {
+                "desc": "你将获得：主流语言编程范式详解；分布式系统关键技术剖析；程序员练级攻略；高效学习的方法以及面试经验。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e主流语言编程范式详解；\u003c/li\u003e\n\u003cli\u003e分布式系统关键技术剖析；\u003c/li\u003e\n\u003cli\u003e程序员练级攻略；\u003c/li\u003e\n\u003cli\u003e高效学习的方法以及面试经验。\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 46567,
+                "had_done": true,
+                "could_order": false,
+                "access_mask": 1
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 20,
+                "article_count_req": 17,
+                "is_finished": false,
+                "rate_percent": 16,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 51,
+                "status": 0,
+                "url": "https://jinshuju.net/f/R4P5ZU"
+            },
+            "any_read": { "total": 6, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 2,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 19900,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "FFFFFF",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/d9/af/d99e9b3458173c7fdac1df8d3d153caf.jpg",
+                "promo_pic_color": "FFFFFF",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/c3/0e/c3ea2c27d22afe3fcc7bc9e61361b20e.jpg",
+                "share_sale_price": 3600,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 0 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 6990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [181, 183, 185, 281]
+        }
+    },
+    {
+        "id": 100006601,
+        "ctime": 1524131479,
+        "utime": 1597656147,
+        "begin_time": 1524585600,
+        "end_time": 1534867200,
+        "price": { "market": 12900, "sale": 9900, "sale_type": 3 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "is_promo": false,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "从0开始学架构",
+        "subtitle": "前阿里P9技术专家的实战架构心法",
+        "ucode": "851FF94CF5133A",
+        "is_finish": true,
+        "author": {
+            "name": "李运华",
+            "intro": "前阿里资深技术专家",
+            "avatar": "https://static001.geekbang.org/resource/image/a9/ed/a96b163e2d9bf19cdfc0f5d0d69e13ed.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/a9/ed/a96b163e2d9bf19cdfc0f5d0d69e13ed.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/c2/e9/c20fd055e720d42f6ca489de1f413ae9.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/15/61/1578bc54d9bfbafbe0cddb05b28f6261.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 60,
+            "count_req": 52,
+            "count_pub": 60,
+            "total_length": 40589
+        },
+        "seo": { "keywords": ["架构基础", "架构入门"] },
+        "share": {
+            "title": "李运华 · 从0开始学架构",
+            "content": "前阿里P9技术专家的实战架构心法",
+            "cover": "https://static001.geekbang.org/resource/image/a9/ed/a96b163e2d9bf19cdfc0f5d0d69e13ed.jpg"
+        },
+        "unit": "60讲",
+        "column": {
+            "unit": "60讲",
+            "bgcolor": "a2cde8",
+            "update_frequency": "全集",
+            "is_preorder": false,
+            "is_finish": true,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 13],
+            "path": {
+                "desc": "你将获得：理解架构设计的本质和目的；掌握高性能和高可用架构模式；走进BAT标准技术架构实战；从编程到架构，实现思维跃迁。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e理解架构设计的本质和目的；\u003c/li\u003e\n\u003cli\u003e掌握高性能和高可用架构模式；\u003c/li\u003e\n\u003cli\u003e走进BAT标准技术架构实战；\u003c/li\u003e\n\u003cli\u003e从编程到架构，实现思维跃迁。\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 46257,
+                "had_done": true,
+                "could_order": false,
+                "access_mask": 1
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 14,
+                "article_count_req": 11,
+                "is_finished": false,
+                "rate_percent": 21,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 26,
+                "status": 0,
+                "url": "https://jinshuju.net/f/MSsCz3"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 2,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 9900,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "ffffff",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/ef/54/ef3a46472c76c51ced69fef6d416a154.jpg",
+                "promo_pic_color": "ffffff",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/05/a6/05e4855c203d6abab10f2a8368fa86a6.jpg",
+                "share_sale_price": 2400,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 0 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 2990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [6354, 6458, 6463, 6472]
+        }
+    },
+    {
+        "id": 100007101,
+        "ctime": 1525675124,
+        "utime": 1597656148,
+        "begin_time": 1526313600,
+        "end_time": 1533657600,
+        "price": { "market": 9900, "sale": 7900, "sale_type": 3 },
+        "is_onborad": true,
+        "is_sale": true,
+        "is_groupbuy": true,
+        "is_promo": false,
+        "is_shareget": false,
+        "is_sharesale": true,
+        "type": "c1",
+        "is_column": true,
+        "is_core": true,
+        "is_video": false,
+        "is_audio": true,
+        "is_dailylesson": false,
+        "is_university": false,
+        "is_opencourse": false,
+        "nav_id": 1,
+        "title": "趣谈网络协议",
+        "subtitle": "像小说一样的网络协议入门课",
+        "ucode": "196BF3F499E8FE",
+        "is_finish": true,
+        "author": {
+            "name": "刘超",
+            "intro": "网易研究院云计算技术部首席架构师",
+            "avatar": "https://static001.geekbang.org/resource/image/99/57/99f9772bb4ff0d815bb75f6812d24f57.jpg"
+        },
+        "cover": {
+            "square": "https://static001.geekbang.org/resource/image/99/57/99f9772bb4ff0d815bb75f6812d24f57.jpg",
+            "rectangle": "https://static001.geekbang.org/resource/image/fe/a9/fe4475b6f38e556f07a6fd1d1527aca9.jpg",
+            "horizontal": "https://static001.geekbang.org/resource/image/12/6f/12409b235fadf207aadc471dfb85086f.jpg"
+        },
+        "article": {
+            "id": 0,
+            "count": 51,
+            "count_req": 42,
+            "count_pub": 51,
+            "total_length": 44120
+        },
+        "seo": { "keywords": ["网络协议", "网络编程"] },
+        "share": {
+            "title": "刘超 · 趣谈网络协议",
+            "content": "像小说一样的网络协议入门课",
+            "cover": "https://static001.geekbang.org/resource/image/99/57/99f9772bb4ff0d815bb75f6812d24f57.jpg"
+        },
+        "unit": "51讲",
+        "column": {
+            "unit": "51讲",
+            "bgcolor": "ccbac0",
+            "update_frequency": "全集",
+            "is_preorder": false,
+            "is_finish": true,
+            "is_include_preview": true,
+            "show_chapter": true,
+            "is_sale_product": true,
+            "study_service": [1, 2, 3, 4, 5, 8, 10, 12, 13, 14],
+            "path": {
+                "desc": "你将获得：掌握网络协议的知识框架；应对大厂面试的协议难题；驾驭网络协议的实用场景。",
+                "desc_html": "\u003cp\u003e\u003cstrong\u003e你将获得\u003c/strong\u003e：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e掌握网络协议的知识框架；\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e应对大厂面试的协议难题；\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e驾驭网络协议的实用场景。\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+            }
+        },
+        "dl": { "article": { "id": 0, "video_duration": "" } },
+        "university": {
+            "total_hour": 0,
+            "term": 0,
+            "redirect_type": "",
+            "redirect_param": ""
+        },
+        "opencourse": {
+            "video_bg": "",
+            "ad": {
+                "cover": "",
+                "redirect_type": "",
+                "redirect_param": ""
+            },
+            "article_fav": { "aid": 0, "had_done": false, "count": 0 }
+        },
+        "extra": {
+            "sub": {
+                "count": 45934,
+                "had_done": true,
+                "could_order": false,
+                "access_mask": 1
+            },
+            "fav": { "count": 0, "had_done": false },
+            "rate": {
+                "article_count": 2,
+                "article_count_req": 2,
+                "is_finished": false,
+                "rate_percent": 4,
+                "video_seconds": 0,
+                "last_article_id": 0,
+                "last_chapter_id": 0
+            },
+            "cert": { "id": "", "type": 0 },
+            "nps": {
+                "min": 21,
+                "status": 0,
+                "url": "https://jinshuju.net/f/EaDpyD"
+            },
+            "any_read": { "total": 4, "count": 0 },
+            "university": {
+                "status": 0,
+                "view_status": 0,
+                "charge_status": 0,
+                "unlocked_status": 0,
+                "unlocked_chapter_ids": [],
+                "unlocked_chapter_id": 0,
+                "unlocked_chapter_title": "",
+                "unlocked_article_count": 0,
+                "unlocked_next_time": 0,
+                "expire_time": 0,
+                "is_expired": false,
+                "is_graduated": false,
+                "had_sub": false,
+                "timeline": []
+            },
+            "vip": { "show": false, "end_time": -1 },
+            "group_buy": {
+                "success_ucount": 2,
+                "join_code": "",
+                "could_groupbuy": false,
+                "had_join": false,
+                "price": 7900,
+                "list": []
+            },
+            "sharesale": {
+                "original_pic_color": "ffffff",
+                "original_pic_url": "https://static001.geekbang.org/resource/image/c5/37/c599279f0bff7ce4cd19de5a98e88637.jpg",
+                "promo_pic_color": "ffffff",
+                "promo_pic_url": "https://static001.geekbang.org/resource/image/f4/14/f49c77811399c32ec75bcde7a959cd14.jpg",
+                "share_sale_price": 2400,
+                "share_sale_guest_price": 0
+            },
+            "promo": { "ent_time": 0 },
+            "channel": { "is": false, "back_amount": 0 },
+            "first_promo": { "price": 1990, "could_join": false },
+            "helper": [],
+            "tab": { "comment": false },
+            "modules": [],
+            "cid": 0,
+            "first_aids": [7398, 7581, 7724, 7772]
+        }
+    }
+]
