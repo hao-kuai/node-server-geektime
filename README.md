@@ -5,15 +5,9 @@
 
 ## 客户端版本
 
-- [Electron 版本]: https://github.com/1071942338/electron-app-geektime
-
-  
-
-- [Flutter 版本]: https://github.com/1071942338/flutter-app-geektime
-
-  
-
-- [ReactNative 版本]: https://github.com/1071942338/react-native-app-geektime
+- [Electron版本](https://github.com/1071942338/electron-app-geektime)
+- [Flutter版本](https://github.com/1071942338/flutter-app-geektime)
+- [ReactNative版本](https://github.com/1071942338/react-native-app-geektime)
 
    
 
